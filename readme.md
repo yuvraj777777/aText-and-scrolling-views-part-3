@@ -1,4 +1,4 @@
 Scrolling TextViews
 =========================
-##Task 1:Add and edits textViews elements
-<img height="700" width="500" src="Screenshoots/task1.png">
+##Task 2:Adding scrollView and an active newLink
+<img height="700" width="500" src="Screenshoots/task2.png">
