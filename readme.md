@@ -1,4 +1,4 @@
 Scrolling TextViews
 =========================
-##Task 2:Adding scrollView and an active newLink
-<img height="700" width="500" src="Screenshoots/task2.png">
+##Task 3:Scrolling multiple elements
+<img height="700" width="500" src="Screenshoots/task3.png">
